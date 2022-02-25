@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gui.menuBar.LanguageSelector",
+    "description": "accessibility text for the language selection menu",
+    "defaultMessage": "language selector"
+  },
+  {
+    "id": "gui.menuBar.tutorialsLibrary",
+    "description": "accessibility text for the tutorials button",
+    "defaultMessage": "Tutorials"
+  },
+  {
+    "id": "gui.menuBar.restoreSprite",
+    "description": "Menu bar item for restoring the last deleted sprite.",
+    "defaultMessage": "Restore Sprite"
+  },
+  {
+    "id": "gui.menuBar.restoreSound",
+    "description": "Menu bar item for restoring the last deleted sound.",
+    "defaultMessage": "Restore Sound"
+  },
+  {
+    "id": "gui.menuBar.restoreCostume",
+    "description": "Menu bar item for restoring the last deleted costume.",
+    "defaultMessage": "Restore Costume"
+  },
+  {
+    "id": "gui.menuBar.restore",
+    "description": "Menu bar item for restoring the last deleted item in its disabled state.",
+    "defaultMessage": "Restore"
+  },
+  {
+    "id": "gui.menuBar.saveNow",
+    "description": "Menu bar item for saving now",
+    "defaultMessage": "Save now"
+  },
+  {
+    "id": "gui.menuBar.saveAsCopy",
+    "description": "Menu bar item for saving as a copy",
+    "defaultMessage": "Save as a copy"
+  },
+  {
+    "id": "gui.menuBar.remix",
+    "description": "Menu bar item for remixing",
+    "defaultMessage": "Remix"
+  },
+  {
+    "id": "gui.menuBar.Open",
+    "description": "Menu bar item for creating a Open project",
+    "defaultMessage": "Open"
+  },
+  {
+    "id": "gui.menuBar.new",
+    "description": "Menu bar item for creating a new project",
+    "defaultMessage": "New"
+  },
+  {
+    "id": "gui.menuBar.Save_As",
+    "description": "Menu bar item for Save As a new project",
+    "defaultMessage": "Save As"
+  },
+  {
+    "id": "gui.menuBar.teachingplanMessage",
+    "description": "Menu bar item for Save As a new project",
+    "defaultMessage": "Teaching Plan"
+  },
+  {
+    "id": "gui.menuBar.convertcodeMessage",
+    "description": "Menu bar item for Save As a new project",
+    "defaultMessage": "Code Convert"
+  },
+  {
+    "id": "gui.menuBar.scratchfileMessage",
+    "description": "Menu bar item for Save As a new project",
+    "defaultMessage": "Scratch File"
+  },
+  {
+    "id": "gui.menuBar.file",
+    "description": "Text for file dropdown menu",
+    "defaultMessage": "File"
+  },
+  {
+    "id": "gui.menuBar.downloadToComputer",
+    "description": "Menu bar item for downloading a project to your computer",
+    "defaultMessage": "Save to your computer"
+  },
+  {
+    "id": "gui.menuBar.tools",
+    "description": "Text for tools dropdown menu",
+    "defaultMessage": "Tools"
+  },
+  {
+    "id": "gui.menuBar.SaveTab",
+    "description": "Text for Save main menu",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "gui.menuBar.ShareTab",
+    "description": "Text for Share main menu",
+    "defaultMessage": "Share"
+  }
+]
